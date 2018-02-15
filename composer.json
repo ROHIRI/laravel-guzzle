@@ -1,5 +1,5 @@
 {
-    "name": "Rohiri/laraguzz",
+    "name": "rohiri/laraguzz",
     "description": "Guzzle como proveedor de servicio para laravel",
     "keywords": ["laravel", "guzzle", "http"],
     "license": "MIT",

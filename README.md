@@ -7,7 +7,7 @@
 
 ### Guzzle ~1.0
 ```sh
-composer require composer require rohiri/laraguzz dev-master
+composer require rohiri/laraguzz
 ```
 
 ## Registrar el proveedor de servicio.

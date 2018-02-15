@@ -1,8 +1,9 @@
 {
-    "name": "ROHIRI/laravel-guzzle-provider",
+    "name": "Rohiri/laraguzz",
     "description": "Guzzle como proveedor de servicio para laravel",
     "keywords": ["laravel", "guzzle", "http"],
     "license": "MIT",
+    "homepage": "https://github.com/Rohiri/laravel-guzzle",
     "authors": [
         {
             "name": "William Torres",

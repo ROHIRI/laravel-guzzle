@@ -1,7 +1,8 @@
 # LaraGuzz
+[![Licencia](https://img.shields.io/packagist/l/Rohiri/laraguzz.svg)](https://packagist.org/packages/rohiri/laraguzz)
 [![Downloads](https://img.shields.io/packagist/dt/Rohiri/laraguzz.svg)](https://packagist.org/packages/rohiri/laraguzz)
 [![Version](https://img.shields.io/packagist/v/Rohiri/laraguzz.svg)](https://packagist.org/packages/rohiri/laraguzz)
-
+[![PHP](https://img.shields.io/packagist/php-v/Rohiri/laraguzz.svg)](https://packagist.org/packages/rohiri/laraguzz)
 
 ## Instalar con Composer:
 
